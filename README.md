@@ -8,6 +8,5 @@ The reason I build this software is that I use it as a teaching tool in the worl
 My hope is to add several teaching tools, so that other teachers can benefit from the same software.
 RoboDog includes all eye-images, but sound is not yet supported. I am also currently working on using interfaces rather than classes so that things will be less "hardcoded", which is why you will find an AbstractDog.cs and an AbstractDog2.cs. The ExternalMotor class is an attemt to wrap an existing class in order for it to use interfaces.
 Besides, the dogs movements may need some adjustment, however, simply override the methods from the abstract dog, and you will be able to implemnent your only movements. 
-![alt tag](https://cloud.githubusercontent.com/assets/16204365/14365108/3d101714-fd0c-11e5-8e47-397f027fcb51.jpg
-
+![Robodog Image](https://cloud.githubusercontent.com/assets/16204365/14365108/3d101714-fd0c-11e5-8e47-397f027fcb51.jpg)
 
